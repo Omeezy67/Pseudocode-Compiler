@@ -1,1 +1,5 @@
-f
+while n>0
+begin
+n := 2n
+end
+output(n) \rbrace
